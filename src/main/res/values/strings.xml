@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DAR</string>
+    <string name="name">Name</string>
+    <string name="email">email</string>
+    <string name="department">department</string>
+    <string name="register">Register</string>
+    <string name="Register">register</string>
+    <string name="create_your_account">Create your account</string>
 </resources>
